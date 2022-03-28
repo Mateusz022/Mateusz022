@@ -30,7 +30,11 @@
 - I like reading books with criminal riddles
 - I train at the gym at free time to keep fit, stay healhy and be more motivated for job
 - I am looking after my younger siblings
-- 📫 How to reach me ...
+ 
+ 
+ 📫 How to reach me ...
+
+
 email me : m.maleszewski.355@studms.ug.edu.pl
 
 
