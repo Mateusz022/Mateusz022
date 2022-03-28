@@ -16,8 +16,8 @@
 
 - 👀 I’m interested in ...
 - Gaining more experience
-- Meet a lot people from whom I can learn more
-- Be engaged in project to improve language skills 
+- Meeting a lot people from whom I can learn more
+- Being engaged in project to improve language skills 
 
 
 - 🌱 I’m currently learning ...
