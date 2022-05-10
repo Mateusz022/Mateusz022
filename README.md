@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mateusz022
 - I am a first year Computer Science and Econometrics student at the University of Gdańsk.  
-- I was engaged in a few projects on studies .
+- I was engaged in a few projects during my studies.
 
 # Hard skills
 - I have developed in C# both console and format apps.
