@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mateusz022
-- I am a first year student computer science and econometrics at the University of Gdańsk.  
+- I am a first year Computer Science and Econometrics student at the University of Gdańsk.  
 - I was engaged in a few projects on studies .
 
 # Hard skills
